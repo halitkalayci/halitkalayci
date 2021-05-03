@@ -1,6 +1,6 @@
 ### Hi there 👋
 📫 How to reach me: halitenes.kalayci@gmail.com
-[![Halit Enes Kalaycı's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanchklyc)]
+![Halit Enes Kalaycı's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanchklyc)
 <!--
 **Sanchklyc/Sanchklyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

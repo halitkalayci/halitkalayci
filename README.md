@@ -2,6 +2,7 @@
 ###### 📫 How to reach me: halitenes.kalayci@gmail.com
 
 ## 🛠  Technologies and tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
 ## 🔍  Where to find me
 ###### [![Linkedin: Halit Enes Kalayci](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/halit-enes-kalayc%C4%B1-7a19a7189//)](https://www.linkedin.com/in/halit-enes-kalayc%C4%B1-7a19a7189/) [![GitHub Sanchklyc](https://img.shields.io/github/followers/sanchklyc?label=follow&style=social)](https://github.com/Sanchklyc) 

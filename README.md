@@ -2,13 +2,13 @@
 ###### 📫 How to reach me: halitenes.kalayci@gmail.com
 
 ## 🛠  Technologies and tools
-![C#](https://img.shields.io/badge/C%23-black?&style=flat-square&logo=c-sharp)
-![.NET](https://img.shields.io/badge/.NET-black?&style=flat-square&logo=.net)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=TypeScript)
-![React](https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react)
-![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![C#](https://img.shields.io/badge/C%23-black?&style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-black?&style=flat-square&logo=.net&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=TypeScript&logoColor=white)
+![React](https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java&logoColor=white)
 ## 🔍  Where to find me
 ###### [![Linkedin: Halit Enes Kalayci](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/halit-enes-kalayc%C4%B1-7a19a7189//)](https://www.linkedin.com/in/halit-enes-kalayc%C4%B1-7a19a7189/) [![GitHub Sanchklyc](https://img.shields.io/github/followers/sanchklyc?label=follow&style=social)](https://github.com/Sanchklyc) 
 

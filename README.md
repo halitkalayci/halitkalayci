@@ -2,7 +2,7 @@
 ###### 📫 How to reach me: halitenes.kalayci@gmail.com
 
 ## 🛠  Technologies and tools
-![C#](https://img.shields.io/badge/C%23.svg-black?style=flat-square&logo=c-sharp&logoColor=whitet)
+![C#](https://img.shields.io/badge/c%23-black?&style=flat-square&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=TypeScript)
 ![React](https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react)

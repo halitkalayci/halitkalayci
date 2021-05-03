@@ -5,7 +5,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=TypeScript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Java](https://img.shields.io/badge/-java-f7a440?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/-java-f7a440-white?style=flat-square&logo=java)
 ## 🔍  Where to find me
 ###### [![Linkedin: Halit Enes Kalayci](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/halit-enes-kalayc%C4%B1-7a19a7189//)](https://www.linkedin.com/in/halit-enes-kalayc%C4%B1-7a19a7189/) [![GitHub Sanchklyc](https://img.shields.io/github/followers/sanchklyc?label=follow&style=social)](https://github.com/Sanchklyc) 
 

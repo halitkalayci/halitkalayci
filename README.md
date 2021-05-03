@@ -2,10 +2,10 @@
 ###### 📫 How to reach me: halitenes.kalayci@gmail.com
 
 ## 🛠  Technologies and tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-aaaaaa?style=flat-square&logo=javascript&labelColor=344fa1&color=344fa1)
-![TypeScript](https://img.shields.io/badge/-TypeScript-aaaaaa?style=flat-square&logo=TypeScript&labelColor=f0ebcc&color=f0ebcc)
-![React](https://img.shields.io/badge/-React.js-f0ebcc?style=flat-square&logo=react)
-![Java](https://img.shields.io/badge/-Java-aaaaaa?style=flat-square&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&labelColor=344fa1&color=344fa1)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=TypeScript&labelColor=f0ebcc&color=f0ebcc)
+![React](https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ## 🔍  Where to find me
 ###### [![Linkedin: Halit Enes Kalayci](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/halit-enes-kalayc%C4%B1-7a19a7189//)](https://www.linkedin.com/in/halit-enes-kalayc%C4%B1-7a19a7189/) [![GitHub Sanchklyc](https://img.shields.io/github/followers/sanchklyc?label=follow&style=social)](https://github.com/Sanchklyc) 
 

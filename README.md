@@ -2,8 +2,8 @@
 ###### 📫 How to reach me: halitenes.kalayci@gmail.com
 
 ## 🛠  Technologies and tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&labelColor=344fa1&color=344fa1)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=TypeScript&labelColor=f0ebcc&color=f0ebcc)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=TypeScript)
 ![React](https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ## 🔍  Where to find me

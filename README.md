@@ -3,7 +3,7 @@
 
 ## 🛠  Technologies and tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-aaaaaa?style=flat-square&logo=javascript&labelColor=344fa1&color=344fa1)
-![TypeScript](https://img.shields.io/badge/-TypeScript-f0ebcc?style=flat-square&logo=TypeScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-f0ebcc?style=flat-square&logo=TypeScript&labelColor=f0ebcc&color=f0ebcc)
 ![React](https://img.shields.io/badge/-React-aaaaaa?style=flat-square&logo=react)
 ![Java](https://img.shields.io/badge/-java-aaaaaa?style=flat-square&logo=java)
 ## 🔍  Where to find me

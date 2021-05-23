@@ -17,7 +17,6 @@
 #### 🔗 Microservices
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=rabbitmq)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
 
 

@@ -4,7 +4,6 @@
 ## 🛠  Technologies and tools
 #### 🧑‍💻 Languages 
 ![C#](https://img.shields.io/badge/C%23-black?&style=flat-square&logo=c-sharp&logoColor=white)
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=TypeScript&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java&logoColor=white)

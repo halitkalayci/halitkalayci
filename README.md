@@ -14,6 +14,9 @@
 ![React](https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular&logoColor=white)
 
+#### 🔗 Microservices
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=rabbitmq&logoColor=white)
+
 #### ⚙️ Tools
 ![Visual Studio ](https://img.shields.io/badge/VS-black?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-black?&style=for-the-badge&logo=visual-studio-code&logoColor=white)

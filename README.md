@@ -4,13 +4,16 @@
 ## 🛠  Technologies and tools
 #### 🧑‍💻 Languages 
 ![C#](https://img.shields.io/badge/C%23-black?&style=flat-square&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-black?&style=flat-square&logo=.net&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=TypeScript&logoColor=white)
-![React](https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java&logoColor=white)
 #### 
+
+#### 📚 Frameworks
+![.NET](https://img.shields.io/badge/.NET-black?&style=flat-square&logo=.net&logoColor=white)
+![React](https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular&logoColor=white)
 
 #### ⚙️ Tools
 ![Visual Studio ](https://img.shields.io/badge/VS-black?&style=for-the-badge&logo=visual-studio-code&logoColor=white)

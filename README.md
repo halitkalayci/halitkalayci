@@ -3,23 +3,23 @@
 
 ## 🛠  Technologies and tools
 #### 🧑‍💻 Languages 
-![C#](https://img.shields.io/badge/C%23-black?&style=flat-square&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=TypeScript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-black?&style=flat-square&logo=c-sharp)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=TypeScript)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 #### 
 
 #### 📚 Frameworks
-![.NET](https://img.shields.io/badge/.NET-black?&style=flat-square&logo=.net&logoColor=white)
-![React](https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-black?&style=flat-square&logo=.net)
+![React](https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
 
 #### 🔗 Microservices
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=rabbitmq&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=rabbitmq)
 
 #### ⚙️ Tools
 ![Visual Studio ](https://img.shields.io/badge/VS-black?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VSCode-black?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-black?&style=for-the-badge&logo=visual-studio-code)
 ## 🔍  Where to find me
 ###### [![Linkedin: Halit Enes Kalayci](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/halit-enes-kalayc%C4%B1-7a19a7189//)](https://www.linkedin.com/in/halit-enes-kalayc%C4%B1-7a19a7189/) [![GitHub Sanchklyc](https://img.shields.io/github/followers/sanchklyc?label=follow&style=social)](https://github.com/Sanchklyc) 
 

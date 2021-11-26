@@ -1,7 +1,9 @@
 ### Hi there 👋
 ###### 📫 How to reach me: halitenes.kalayci@gmail.com
+###### 📚 I am currently learning Flutter!
 
-## 🛠  Technologies and tools
+
+## 🛠  Technologies and tools
 #### 🧑‍💻 Languages 
 ![C#](https://img.shields.io/badge/C%23-black?&style=flat-square&logo=c-sharp)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)

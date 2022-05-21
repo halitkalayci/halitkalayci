@@ -1,6 +1,6 @@
 ### Hi there 👋
 ###### 📫 How to reach me: halitenes.kalayci@gmail.com
-###### 📚 I am currently learning Flutter!
+###### 📚 I am currently learning NodeJS!
 
 
 ## 🛠  Technologies and tools

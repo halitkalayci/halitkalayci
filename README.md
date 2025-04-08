@@ -1,44 +1,60 @@
-### Hi there 👋
-###### 📫 How to reach me: halitenes.kalayci@gmail.com
+# Hi there 👋 I'm Halit Enes Kalaycı
 
-## 🛠  Technologies and tools
-#### 🧑‍💻 Languages 
-![C#](https://img.shields.io/badge/C%23-black?&style=flat-square&logo=c-sharp)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=TypeScript)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-#### 
+🎓 Software Architect & Instructor | 🧠 Passionate about Distributed Systems, Microservices & Clean Code
 
-#### 📚 Frameworks
-![.NET](https://img.shields.io/badge/.NET-black?&style=flat-square&logo=.net)
-![React](https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react)
-![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
+📬 Reach me: [halitenes.kalayci@gmail.com](mailto:halitenes.kalayci@gmail.com)
 
-#### 🔗 Microservices
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=rabbitmq)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)
+---
 
+## 🚀 Technologies and Tools
 
+### 👨‍💻 Languages
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23f7df1e.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-#### ⚙️ Tools
-![Visual Studio ](https://img.shields.io/badge/VS-black?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VSCode-black?&style=for-the-badge&logo=visual-studio-code)
-## 🔍  Where to find me
-###### [![Linkedin: Halit Enes Kalayci](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/halit-enes-kalayc%C4%B1-7a19a7189//)](https://www.linkedin.com/in/halit-enes-kalayc%C4%B1-7a19a7189/) [![GitHub HalitKalayci](https://img.shields.io/github/followers/halitkalayci?label=follow&style=social)](https://github.com/halitkalayci) 
+### 🧱 Frameworks & Libraries
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-## 📊 Statistics
-#### ![visitors](https://visitor-badge.laobi.icu/badge?page_id=halitkalayci)
-![stats](https://github-readme-stats.vercel.app/api?username=halitkalayci&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
-<!--
-**Sanchklyc/Sanchklyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ☁️ Infrastructure
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/ElasticSearch-%230055CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
-Here are some ideas to get you started:
+### 📚 Dev Tools
+![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![JetBrains Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=JetBrains&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍🏫 Courses & Trainings
+
+🚀 Udemy Instructor  
+📢 Corporate Trainings (Borusan, Turkcell, Bosch, EGM, TKİ...)  
+🎓 Topics: Microservices | Clean Architecture | Angular | .NET | Spring | Docker | DevOps
+
+---
+
+## 🔍 Where to find me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haliteneskalayci/)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/halitkalayci)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=halitkalayci&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=halitkalayci&layout=compact&theme=tokyonight)
+
+---
+
+🔁 *Always learning, always teaching!*
